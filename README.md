@@ -11,6 +11,6 @@ Tech Stack
 - Git | Github
 - UI / UX | Figma | Canva
 
-Connect with me : andreselacioniii@gmail.com
+Connect with me : andreielacion5@gmail.com
 
 Portfolio: https://andreselacion.netlify.app/
